@@ -11,9 +11,9 @@ Currently a huge work in progress.
 
 ## Table of Contents
 
-- [Git LFS](https://github.com/Warge09/Cheat-sheet-and-Guide-for-Game-Developers/tree/main/Git%20LFS)
 - [Git](https://github.com/Warge09/Cheat-sheet-and-Guide-for-Game-Developers/tree/main/Git)
 - [Github](https://github.com/Warge09/Cheat-sheet-and-Guide-for-Game-Developers/tree/main/Github)
+- [Git LFS](https://github.com/Warge09/Cheat-sheet-and-Guide-for-Game-Developers/tree/main/Git%20LFS)
 - [Unity](https://github.com/Warge09/Cheat-sheet-and-Guide-for-Game-Developers/tree/main/Unity)
 - [Unreal Engine](https://github.com/Warge09/Cheat-sheet-and-Guide-for-Game-Developers/tree/main/Unreal%20Engine)
 
