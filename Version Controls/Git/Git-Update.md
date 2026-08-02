@@ -1,3 +1,5 @@
+# Updating Git
+
 # This command is universal between major operating systems such as Windows, Linux, Mac.
 git -v | git --version # Displays the version information you currently have installed. Make sure you keep it updated to continue as version control, performance updates, and security updates.
 git
@@ -8,7 +10,7 @@ git
 # At the time of updating, if your Git version is between 2.14.2 and 2.16.1, then run this.
 git update 
 
-# At the time of updating, if your Git version is after 2.16.1, then run then run this command.
+# At the time of updating, if your Git version is after 2.16.1, then run this command.
 git update-git-for-windows
 
 # --Updating on Linux--
