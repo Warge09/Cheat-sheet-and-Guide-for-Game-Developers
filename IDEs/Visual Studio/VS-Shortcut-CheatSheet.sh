@@ -7,8 +7,8 @@
 # To use this shortcut you must either click or fully highlight the text you wish to go to then hit F12 otherwise it won't work. 
 Go to Definition - F12 
 
-
-Go to Declaration/Implementation - Ctrl + F12 # 
+#
+Go to Implementation - Ctrl + F12 
 
 # Shows all open files in a switcher. Use either tab and release when on the file you want to open, or use the arrows keys and enter.
 Cycle through open files - Ctrl + Tab

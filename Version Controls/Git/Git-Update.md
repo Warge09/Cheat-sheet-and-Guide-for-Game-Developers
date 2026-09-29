@@ -5,7 +5,7 @@ git -v | git --version # Displays the version information you currently have ins
 git
 # --Updating on Windows--
 
-# This downloads the latest version of Git. You can run the previous command to verify it has updated.
+#### This downloads the latest version of Git. You can run the previous command to verify it has updated.
 
 # At the time of updating, if your Git version is between 2.14.2 and 2.16.1, then run this.
 git update 
